@@ -9,7 +9,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    
+    // Anna
     @IBOutlet weak var cenliusLable: UILabel!
     @IBOutlet weak var fahrenheLable: UILabel!
     @IBOutlet weak var slider: UISlider! {
